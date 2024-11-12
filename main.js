@@ -82,9 +82,10 @@ class HumanityClient {
       "content-type": "application/json",
       origin: "https://faucet.testnet.humanity.org",
       referer: "https://faucet.testnet.humanity.org/",
-      "sec-ch-ua": '"Not_A_Browser";v="99"',
+      "sec-ch-ua":
+        '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99""',
       "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": '"Unknown"',
+      "sec-ch-ua-platform": '"Windows"',
       "sec-fetch-dest": "empty",
       "sec-fetch-mode": "cors",
       "sec-fetch-site": "same-origin",
