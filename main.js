@@ -25,7 +25,7 @@ const CONSTANTS = {
   GAS_PRICE_MULTIPLIER: 1.2,
   GAS_LIMIT_MULTIPLIER: 1.2,
   WAIT_BETWEEN_WALLETS: 3000, // 3 seconds
-  WAIT_BETWEEN_ROUNDS: 8 * 60 * 60, // 24 hours
+  WAIT_BETWEEN_ROUNDS: 24 * 60 * 60, // 24 hours
 };
 
 // Contract ABIs
