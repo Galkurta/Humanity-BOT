@@ -17,7 +17,6 @@ An automated bot for claiming THP tokens and rewards on the Humanity Protocol te
 
 - Node.js v16 or higher
 - npm or yarn package manager
-- A wallet with some ETH for gas fees
 
 ## Installation
 
